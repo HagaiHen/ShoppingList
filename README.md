@@ -29,11 +29,10 @@ npm install
 Create a .env file in the root directory and configure the MySQL database connection:
 
 ```
-DB_HOST=localhost
-DB_USER=your-mysql-username
-DB_PASSWORD=your-mysql-password
-DB_DATABASE=shopping_list
-DB_PORT=3306
+MYSQL_HOST='127.0.0.1'
+MYSQL_USER=your-username
+MYSQL_PASSWORD=your-password
+MYSQL_DATABASE='shopping_list'
 ```
 
 ### Usage
