@@ -25,7 +25,7 @@ Install dependencies:
 ```
 npm install
 ```
-#### Configuration
+### Configuration
 Create a .env file in the root directory and configure the MySQL database connection:
 
 ```
@@ -46,9 +46,7 @@ npm run dev
 The server will be accessible at http://localhost:8080.
 
 ## API Endpoints
-GET /categories: Get all categories.
-GET /categories/:id: Get a specific category by ID.
-GET /products/:id: Get products by category ID.
-POST /products: Create a new product.
-GET /orders: Get all orders.
-POST /order: Create a new order.
+#### GET /categories: Get all categories.
+#### GET /categories/:id: Get a specific category by ID.
+#### GET /orders: Get all orders.
+#### POST /order: Create a new order.
