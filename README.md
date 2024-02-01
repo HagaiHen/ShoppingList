@@ -20,12 +20,6 @@ Clone the repository:
 git clone https://github.com/your-username/shopping-list-backend.git
 ```
 
-Navigate to the project directory:
-
-```
-cd shopping-list-backend
-```
-
 Install dependencies:
 
 ```
