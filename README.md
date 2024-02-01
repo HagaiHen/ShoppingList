@@ -17,7 +17,7 @@ To set up the backend server, follow these steps.
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/shopping-list-backend.git
+git clone https://github.com/HagaiHen/ShoppingList
 ```
 
 Install dependencies:
